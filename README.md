@@ -128,10 +128,6 @@ const workingStyle = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Naveen-671&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-671&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-671&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
@@ -162,7 +158,7 @@ I'm actively seeking collaborations and roles in:
 
 [![Email](https://img.shields.io/badge/Email-naveenr08012005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenr08012005@gmail.com)
 
-[![Resume](https://img.shields.io/badge/📄_Resume-View_PDF-success?style=for-the-badge)](https://drive.google.com/file/d/1BrvWxZ-f5CFfU2tVHwPuTdJHYEXSI8gD/preview)
+[![Resume](https://img.shields.io/badge/📄_Resume-View_PDF-success?style=for-the-badge)](https://drive.google.com/file/d/1-pi0Gl6Mgrlv-lx1Fnq6LLMilXxd5Wzr/view?usp=drive_link)
 
 </div>
 
