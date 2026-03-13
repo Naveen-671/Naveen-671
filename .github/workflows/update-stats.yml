@@ -1,0 +1,30 @@
+name: Update GitHub Stats Daily
+
+on:
+  schedule:
+    # Run every day at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README with current date
+        run: |
+          # Get current date in YYYY-MM-DD format
+          CURRENT_DATE=$(date -u +%Y-%m-%d)
+
+          # Update the date parameter in all GitHub stats URLs
+          sed -i "s/date=[0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}/date=$CURRENT_DATE/g" README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update GitHub stats date to $(date -u +%Y-%m-%d)" && git push)
