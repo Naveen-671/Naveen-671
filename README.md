@@ -135,7 +135,7 @@ const workingStyle = {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-671&theme=radical&hide_border=true&date=2026-03-13" alt="GitHub Streak" />
 
 <!-- Top Languages Card - Updates in real-time -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-671&theme=radical&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400&date=2026-03-13" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-671&theme=radical&hide_border=true&layout=compact&langs_count=8&hide=html,css,scss,jupyter%20notebook&exclude_repo=langchain_python_agent&size_weight=0.5&count_weight=0.5&cache_seconds=86400&date=2026-03-13" alt="Top Languages" />
 
 <!-- GitHub Activity Graph - Updates daily -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen-671&theme=redical&hide_border=true&area=true&date=2026-03-13" alt="Contribution Graph" />
