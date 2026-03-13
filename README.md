@@ -128,7 +128,17 @@ const workingStyle = {
 
 <div align="center">
 
+<!-- GitHub Stats Card - Updates in real-time -->
+<img src="https://github-readme-stats.vercel.app/api?username=Naveen-671&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<!-- GitHub Streak Stats - Updates daily -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-671&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<!-- Top Languages Card - Updates in real-time -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-671&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+
+<!-- GitHub Activity Graph - Updates daily -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen-671&theme=redical&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
