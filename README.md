@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://naveenr-portfolio.lovable.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://naveenr-portfolio-nine.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naveen-r-4413822a1)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Naveen-671)
   [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:naveenr08012005@gmail.com)
@@ -161,7 +161,7 @@ I'm actively seeking collaborations and roles in:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-naveenr--portfolio.lovable.app-blue?style=for-the-badge)](https://naveenr-portfolio.lovable.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-naveenr--portfolio.lovable.app-blue?style=for-the-badge)](https://naveenr-portfolio-nine.vercel.app/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Naveen_R-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naveen-r-4413822a1)
 
